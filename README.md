@@ -11,6 +11,9 @@ This project is a Spring Boot service that connects to the GitHub API and genera
 
 ## Project Structure
 
+## Project Structure
+
+```
 github-access-report
  ├─ src
  │  ├─ main
@@ -30,6 +33,7 @@ github-access-report
  │
  ├─ pom.xml
  └─ README.md
+```
 
 ## How to Run
 
